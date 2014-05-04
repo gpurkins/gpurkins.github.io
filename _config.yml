@@ -1,0 +1,12 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: George Purkins 
+url: http://gpurkins.github.io
+description: A blog of fantastical devops stunts 
+twitter: gpurkins 
+github: gpurkins 
+gravatar_url: http://gravatar.com/avatar/1c4f34d4990e8dee791b60c9b58d41c2
