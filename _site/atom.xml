@@ -4,7 +4,7 @@
  <title>George Purkins</title>
  <link href="http://gpurkins.github.io/atom.xml" rel="self"/>
  <link href="http://gpurkins.github.io/"/>
- <updated>2014-05-07T19:42:13-04:00</updated>
+ <updated>2014-05-07T20:08:47-04:00</updated>
  <id>http://gpurkins.github.io</id>
  <author>
    <name>George Purkins</name>
@@ -17,9 +17,11 @@
      <link href="http://gpurkins.github.io/posts/Hello-World"/>
      <updated>2014-05-04T00:00:00-04:00</updated>
      <id>http://gpurkins.github.io/posts/Hello-World</id>
-     <content type="html">&lt;p&gt; I haven&amp;rsquo;t written much about devops, products, and my thoughts on automation and people always ask. Most of the automation I create comes from me being incredibly lazy, or stupid. Computers are great at doing things over and over, and humans are generally terrible and mistake prone at it. At least I am. I like making tools and designing process for software development to make life easier for the poor humans that have to put up with computers.&lt;/p&gt;
+     <content type="html">&lt;p&gt;Here lies @gpurkins' blog. I&amp;rsquo;ll write things about vagrant, puppet, automation, and more. Most of the software I create comes from me being incredibly lazy, or stupid. Computers are great at doing things over and over, and humans are generally terrible and mistake prone at it. At least I am. I like making tools and designing process for software development to make life easier for the poor humans that have to put up with computers.&lt;/p&gt;
 
 &lt;p&gt;Here I&amp;rsquo;ll document some of my exciting stunts to do more work in less time. Hope you like vagrant, puppet, and git.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/scoot.jpg&quot; alt=&quot;Action shot!&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks for all the fish &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
